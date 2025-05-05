@@ -184,8 +184,10 @@
   
   .experiences__company-header-durability {
     color: var(--durability-text-color);
+    display: block;
     text-align: left;
     margin-bottom: 10px;
+    margin-top: 30px;
     font-size: 15px;
   }
   
